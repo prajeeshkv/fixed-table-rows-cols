@@ -1,3 +1,4 @@
+![db diagram](https://github.com/prajeeshkv/fixed-table-rows-cols/assets/6111656/273634a0-ec4a-451a-82fd-23675201f349)
 Overview
 ========
 
